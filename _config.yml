@@ -2,8 +2,9 @@
 title: Freelancer
 title2: Mad Skillz
 email: dirkjan@degroot.in
-url: https://example.github.io
-description: "Freelancer with Mad skills: Angular SASS Node MongoDB Marketing Hacking."
+url: https://dirkjan111.github.io
+baseurl : /dirkjandegroot.nl
+description: "Freelancer with Mgit aad skills: Angular SASS Node MongoDB Marketing Hacking."
 skills: "Angular/ MEAN Developer - Frontend - Marketing Hacker"
 meta_author: Dirk-Jan de Groot
 
