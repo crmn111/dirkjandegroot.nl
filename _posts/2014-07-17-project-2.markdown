@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: balticapartments.jpg
+alt: image-alt
+project-date: April 2014
+client: Baltic Apartments
+category: Web Development
+description: Baltic Apartments - Holiday Apartments
+
+---

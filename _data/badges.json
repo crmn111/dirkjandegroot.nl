@@ -1,0 +1,364 @@
+[
+  {
+    "lastValidated": "2015-01-07T10:22:34.000Z",
+    "hostedUrl": "https://www.codeschool.com/users/1168926/badges/296/assertion",
+    "group": "Javascript",
+    "assertion": {
+      "recipient": "sha256$37fa5806e9d305da658862bb2c5409a3fd1ee53d7b2b2e82b825a51fc8b12347",
+      "salt": "3a9cce95b3f042170761cfccf4eecfd6",
+      "issued_on": "2015-01-06",
+      "badge": {
+        "version": "0.5.0",
+        "name": "Completed JavaScript Road Trip Part 1",
+        "image": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/296/completed-javascript-road-trip-part-1-b9f5af5196fb596271f7f97b6b477d24.png",
+        "description": "Awarded for the completion of JavaScript Road Trip Part 1",
+        "criteria": "https://www.codeschool.com/users/1168926/badges/296",
+        "issuer": {
+          "origin": "http://www.codeschool.com",
+          "name": "Code School",
+          "org": null,
+          "contact": null
+        }
+      }
+    },
+    "imageUrl": "https://backpack.openbadges.org/images/badge/4617c7a84377a96c3d8f3c3e5568e892568bc32863bb067c3b448ec41d75c14f.png"
+  },
+  {
+    "lastValidated": "2015-01-07T15:30:05.000Z",
+    "hostedUrl": "https://www.codeschool.com/users/1168926/badges/34/assertion",
+    "group": "Javascript",
+    "assertion": {
+      "recipient": "sha256$eb7e06c5a0a0bc147aac655231e239bfdb454433966e3564a8e47493a19fe3d1",
+      "salt": "afa3d7c74968ad801afbe5bc78e0c589",
+      "issued_on": "2015-01-07",
+      "badge": {
+        "version": "0.5.0",
+        "name": "Completed CoffeeScript",
+        "image": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/34/completed-coffeescript-a0e4e657cfa6157c594a8a2304c49d4b.png",
+        "description": "Awarded for the completion of CoffeeScript",
+        "criteria": "https://www.codeschool.com/users/1168926/badges/34",
+        "issuer": {
+          "origin": "http://www.codeschool.com",
+          "name": "Code School",
+          "org": null,
+          "contact": null
+        }
+      }
+    },
+    "imageUrl": "https://backpack.openbadges.org/images/badge/6d89630e3efff028aabafc637856dd9dbbb5f7f68958abce69b57303410589a1.png"
+  },
+  {
+    "lastValidated": "2015-01-08T12:41:36.000Z",
+    "hostedUrl": "https://www.codeschool.com/users/1168926/badges/392/assertion",
+    "group": "Javascript",
+    "assertion": {
+      "recipient": "sha256$7c5be511af36e56ab2aff85120dc8ed7c9ae54173ccb00f49ce61262e31c0cbf",
+      "salt": "ce0c9d25ad0c367375ff571ef7b43af9",
+      "issued_on": "2015-01-08",
+      "badge": {
+        "version": "0.5.0",
+        "name": "Completed Shaping up with Angular.js",
+        "image": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/392/completed-shaping-up-with-angular-js-83ceb89bd5255391f25230727ae3f019.png",
+        "description": "Awarded for the completion of Shaping up with Angular.js",
+        "criteria": "https://www.codeschool.com/users/1168926/badges/392",
+        "issuer": {
+          "origin": "http://www.codeschool.com",
+          "name": "Code School",
+          "org": null,
+          "contact": null
+        }
+      }
+    },
+    "imageUrl": "https://backpack.openbadges.org/images/badge/f26c6cbdc57d1e26ca5dc0a1109ef8b83a11d9c4e1154dcec5b31eeec32dcd8a.png"
+  },
+  {
+    "lastValidated": "2015-01-08T20:44:35.000Z",
+    "hostedUrl": "https://www.codeschool.com/users/1168926/badges/300/assertion",
+    "group": "Javascript",
+    "assertion": {
+      "recipient": "sha256$45390810d905011e742cd520d6ac3c129c7102f24612621217bb8f6b2f3817a0",
+      "salt": "b33aa46d2d4071d763f44e5a7b885748",
+      "issued_on": "2015-01-08",
+      "badge": {
+        "version": "0.5.0",
+        "name": "Completed JavaScript Road Trip Part 2",
+        "image": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/300/completed-javascript-road-trip-part-2-d4fd45ae7ecb6601fe4a0c8d506ca306.png",
+        "description": "Awarded for the completion of JavaScript Road Trip Part 2",
+        "criteria": "https://www.codeschool.com/users/1168926/badges/300",
+        "issuer": {
+          "origin": "http://www.codeschool.com",
+          "name": "Code School",
+          "org": null,
+          "contact": null
+        }
+      }
+    },
+    "imageUrl": "https://backpack.openbadges.org/images/badge/9c5807a4c88c3504e3d0398b2637d1bcdab69677ac65df48ae14473fb4a04db5.png"
+  },
+  {
+    "lastValidated": "2015-01-12T15:26:57.000Z",
+    "hostedUrl": "https://www.codeschool.com/users/1168926/badges/321/assertion",
+    "group": "Javascript",
+    "assertion": {
+      "recipient": "sha256$4b8d697f96e1cbb917a9a8c72d2e7196cbc758e6818a7e47872bba0072996448",
+      "salt": "6dfc5424aa6a9b712e765d42cd71ca88",
+      "issued_on": "2015-01-12",
+      "badge": {
+        "version": "0.5.0",
+        "name": "Completed JavaScript Road Trip Part 3",
+        "image": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/321/completed-javascript-road-trip-part-3-6c96fe52f9c68b790937d3db2110325a.png",
+        "description": "Awarded for the completion of JavaScript Road Trip Part 3",
+        "criteria": "https://www.codeschool.com/users/1168926/badges/321",
+        "issuer": {
+          "origin": "http://www.codeschool.com",
+          "name": "Code School",
+          "org": null,
+          "contact": null
+        }
+      }
+    },
+    "imageUrl": "https://backpack.openbadges.org/images/badge/8c3bae778d3452f98523a8cda419eda1701590e8e600a2716c56ac2bdf9393c9.png"
+  },
+  {
+    "lastValidated": "2015-01-14T10:40:31.000Z",
+    "hostedUrl": "https://www.codeschool.com/users/1168926/badges/435/assertion",
+    "group": "Javascript",
+    "assertion": {
+      "recipient": "sha256$e01ddb4ccaa900323979c286563f1de6b83f27525dda4e6b6dee4468aafa8fe2",
+      "salt": "20f8fbef8c832e081950f0b694036981",
+      "issued_on": "2015-01-14",
+      "badge": {
+        "version": "0.5.0",
+        "name": "Completed JavaScript Best Practices",
+        "image": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/435/completed-javascript-best-practices-320e73d2694215bc24264e74a2f76528.png",
+        "description": "Awarded for the completion of  JavaScript Best Practices",
+        "criteria": "https://www.codeschool.com/users/1168926/badges/435",
+        "issuer": {
+          "origin": "http://www.codeschool.com",
+          "name": "Code School",
+          "org": null,
+          "contact": null
+        }
+      }
+    },
+    "imageUrl": "https://backpack.openbadges.org/images/badge/4defc1a074b16a1bc561b87748970e5fb9f12e2a71ef1a4fc5e9f2ec1b357a59.png"
+  },
+  {
+    "lastValidated": "2015-12-16T14:09:43.000Z",
+    "hostedUrl": "https://www.codeschool.com/users/1168926/badges/575/assertion",
+    "group": "Javascript",
+    "assertion": {
+      "recipient": "sha256$589e5ae0da177a9a3dfbf62ccae7a6a223a4436099e0d44d79479835f3c9a3fd",
+      "salt": "b1ad60fb74719e56ef5cf18acbd4d855",
+      "issued_on": "2015-11-24",
+      "badge": {
+        "version": "0.5.0",
+        "name": "ES2015: The Shape of JavaScript to Come",
+        "image": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/575/es2015-the-shape-of-javascript-to-come-4fc892886efc17afcade1d54da324a38.png",
+        "description": "Awarded for Completion of ES2015: The Shape of JavaScript to Come",
+        "criteria": "https://www.codeschool.com/users/1168926/badges/575",
+        "issuer": {
+          "origin": "http://www.codeschool.com",
+          "name": "Code School",
+          "org": null,
+          "contact": null
+        }
+      }
+    },
+    "imageUrl": "https://backpack.openbadges.org/images/badge/5d1a6e2fa8b5e3f75435236208f6d2e69ce8bd262dd38a716927b7fb10051fc1.png"
+  },
+  {
+    "lastValidated": "2015-12-16T14:10:56.000Z",
+    "hostedUrl": "https://www.codeschool.com/users/1168926/badges/266/assertion",
+    "group": "Javascript",
+    "assertion": {
+      "recipient": "sha256$1c3482bf1d22d22385d71c1980c5a1b396e0e88714b2d89771638e4f6b78cc57",
+      "salt": "28222e3150d64aa7f4155de73dd0b26a",
+      "issued_on": "2015-12-02",
+      "badge": {
+        "version": "0.5.0",
+        "name": "Completed jQuery: The Return Flight",
+        "image": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/266/completed-jquery-the-return-flight-9ad2cf12f15881f2f7e6621e355f15b3.png",
+        "description": "Awarded for the completion of jQuery: The Return Flight",
+        "criteria": "https://www.codeschool.com/users/1168926/badges/266",
+        "issuer": {
+          "origin": "http://www.codeschool.com",
+          "name": "Code School",
+          "org": null,
+          "contact": null
+        }
+      }
+    },
+    "imageUrl": "https://backpack.openbadges.org/images/badge/f0727a32b57b603979f62792de47e2986ad98724ba28256ae7d9359c29694cce.png"
+  },
+  {
+    "lastValidated": "2015-01-07T10:21:46.000Z",
+    "hostedUrl": "https://www.codeschool.com/users/1168926/badges/197/assertion",
+    "group": "other",
+    "assertion": {
+      "recipient": "sha256$6bc298828da6dfc4007781a805de268e35ef31bc8e4da8ed18824b2143b9d57a",
+      "salt": "517101ef9b737092dbb465f22c30b3d1",
+      "issued_on": "2015-01-07",
+      "badge": {
+        "version": "0.5.0",
+        "name": "Completed Discover DevTools",
+        "image": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/197/completed-discover-devtools-b769c8b681384be3ad04cdf813b4a62c.png",
+        "description": "Awarded for the completion of Discover DevTools",
+        "criteria": "https://www.codeschool.com/users/1168926/badges/197",
+        "issuer": {
+          "origin": "http://www.codeschool.com",
+          "name": "Code School",
+          "org": null,
+          "contact": null
+        }
+      }
+    },
+    "imageUrl": "https://backpack.openbadges.org/images/badge/e661e6bc4adf5d00374ad3717ad3b079b980f8e32c4ce4e05ad6e13d3610fb2c.png"
+  },
+  {
+    "lastValidated": "2015-12-16T14:12:17.000Z",
+    "hostedUrl": "https://www.codeschool.com/users/1168926/badges/524/assertion",
+    "group": "other",
+    "assertion": {
+      "recipient": "sha256$46dfd94d903341a5ff743cfeb7e41c25fb4a01e743ee0955a7b01901e53a3189",
+      "salt": "0e571d1afe5b4fc62835f5247ccd95e3",
+      "issued_on": "2015-07-30",
+      "badge": {
+        "version": "0.5.0",
+        "name": "Breaking the Ice with Regular Expressions",
+        "image": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/524/breaking-the-ice-with-regular-expressions-07f250b8acc97e47f862e00b1f5115b2.png",
+        "description": "Awarded for Completion of Breaking the Ice with Regular Expressions",
+        "criteria": "https://www.codeschool.com/users/1168926/badges/524",
+        "issuer": {
+          "origin": "http://www.codeschool.com",
+          "name": "Code School",
+          "org": null,
+          "contact": null
+        }
+      }
+    },
+    "imageUrl": "https://backpack.openbadges.org/images/badge/0f6c8acf7234c53f1f885fe451d1a1a100013af794738753e8cb3afa777989ca.png"
+  },
+  {
+    "lastValidated": "2015-01-05T16:06:29.000Z",
+    "hostedUrl": "https://www.codeschool.com/users/1168926/badges/125/assertion",
+    "group": "Version Control",
+    "assertion": {
+      "recipient": "sha256$0eb3474b640a293cdc5819ccc9f3b4b1e546f0053bb09cd819bbac80eee58167",
+      "salt": "0c99399b38c4ef527085e89569051085",
+      "issued_on": "2014-12-28",
+      "badge": {
+        "version": "0.5.0",
+        "name": "Completed Git Real",
+        "image": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/125/completed-git-real-0401f78ab2d83cdca3a6976987a531d4.png",
+        "description": "Awarded for the completion of Git Real",
+        "criteria": "https://www.codeschool.com/users/1168926/badges/125",
+        "issuer": {
+          "origin": "http://www.codeschool.com",
+          "name": "Code School",
+          "org": null,
+          "contact": null
+        }
+      }
+    },
+    "imageUrl": "https://backpack.openbadges.org/images/badge/a49e2dba7a4ff1cfb20938a00c48de4d2869e126176c9f14da786d944c9e2780.png"
+  },
+  {
+    "lastValidated": "2015-01-05T16:06:43.000Z",
+    "hostedUrl": "https://www.codeschool.com/users/1168926/badges/107/assertion",
+    "group": "Server",
+    "assertion": {
+      "recipient": "sha256$19ea7ce81947b5d2b77ab78faf51e8baedfe865703da98ac5cc68aa8f8634141",
+      "salt": "1219f1f90f6fa6af516113f2ec8662be",
+      "issued_on": "2015-01-05",
+      "badge": {
+        "version": "0.5.0",
+        "name": "Completed Real-time Web with Node.js",
+        "image": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/107/completed-real-time-web-with-node-js-c8408b2b17ff6492d3f4d241c0db322d.png",
+        "description": "Awarded for the completion of Real-time Web with Node.js",
+        "criteria": "https://www.codeschool.com/users/1168926/badges/107",
+        "issuer": {
+          "origin": "http://www.codeschool.com",
+          "name": "Code School",
+          "org": null,
+          "contact": null
+        }
+      }
+    },
+    "imageUrl": "https://backpack.openbadges.org/images/badge/83b942f49e9904ae8650a2b86bdbd2141a545e5d68173431e1769fd56fe435bb.png"
+  },
+  {
+    "lastValidated": "2015-01-15T15:17:06.000Z",
+    "hostedUrl": "https://www.codeschool.com/users/1168926/badges/475/assertion",
+    "group": "Server",
+    "assertion": {
+      "recipient": "sha256$07dafa23642ed7f6f16aac1f6e873a2cc757e5ec12fa58bfc4c3b0b96b793bdc",
+      "salt": "3be14cc74cacd1c9e05fe77760e92d7a",
+      "issued_on": "2015-01-15",
+      "badge": {
+        "version": "0.5.0",
+        "name": "Completed Building Blocks of Express.js",
+        "image": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/475/completed-building-blocks-of-express-js-51227acf5773414563c2dcd82c14ca10.png",
+        "description": "Awarded for the completion of Building Blocks of Express.js",
+        "criteria": "https://www.codeschool.com/users/1168926/badges/475",
+        "issuer": {
+          "origin": "http://www.codeschool.com",
+          "name": "Code School",
+          "org": null,
+          "contact": null
+        }
+      }
+    },
+    "imageUrl": "https://backpack.openbadges.org/images/badge/20c6031e270e417a821f1dc11ccad97ae1526604dcff1942712161962c5eb2c2.png"
+  },
+  {
+    "lastValidated": "2015-12-16T14:09:14.000Z",
+    "hostedUrl": "https://www.codeschool.com/users/1168926/badges/539/assertion",
+    "group": "Server",
+    "assertion": {
+      "recipient": "sha256$82921cfbdcb21ec213f79440df07d690542cbf037d2b3546abf6900d9087ad7b",
+      "salt": "4b60f7a8a33490f738c30d8b52f7b292",
+      "issued_on": "2015-12-04",
+      "badge": {
+        "version": "0.5.0",
+        "name": "The Magical Marvels of MongoDB",
+        "image": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/539/the-magical-marvels-of-mongodb-1f09c10dfafb300ce53d2d339fdc299c.png",
+        "description": "Awarded for Completion of The Magical Marvels of MongoDB",
+        "criteria": "https://www.codeschool.com/users/1168926/badges/539",
+        "issuer": {
+          "origin": "http://www.codeschool.com",
+          "name": "Code School",
+          "org": null,
+          "contact": null
+        }
+      }
+    },
+    "imageUrl": "https://backpack.openbadges.org/images/badge/dfb629ee3dd1cc19d60ed358422671cdda449b2e5a3029ea1a843221d0303fd7.png"
+  },
+  {
+    "lastValidated": "2015-12-16T14:10:30.000Z",
+    "hostedUrl": "https://www.codeschool.com/users/1168926/badges/518/assertion",
+    "group": "Server",
+    "assertion": {
+      "recipient": "sha256$4f0cae2d7e90f6d1d56b44d709536cca714fe68a7fb605988fde13b942964a8b",
+      "salt": "018ac7b6fbf36144678ea820c9174b8b",
+      "issued_on": "2015-12-03",
+      "badge": {
+        "version": "0.5.0",
+        "name": "Course Complete",
+        "image": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/518/course-complete-61a5b8d40f49efccf26fd3e84619545b.png",
+        "description": "Awarded for completing The Sequel to SQL",
+        "criteria": "https://www.codeschool.com/users/1168926/badges/518",
+        "issuer": {
+          "origin": "http://www.codeschool.com",
+          "name": "Code School",
+          "org": null,
+          "contact": null
+        }
+      }
+    },
+    "imageUrl": "https://backpack.openbadges.org/images/badge/96e1419afdc2be7092b8189b6dc20a236355f5d50b97eb8999f0c1cd47deb403.png"
+  }
+]
+
+

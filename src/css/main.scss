@@ -1,0 +1,43 @@
+ul.codeschool {
+
+  li {
+    margin:1rem;
+    display: inline-block;
+
+    a {
+      display: inline-block;
+      position: relative;
+
+      caption {
+        position: absolute;
+        opacity: 1;
+        z-index: 3;
+        transition: all 0.5s ease 0s;
+      }
+
+      img {
+        position: relative;
+        z-index: 0!important;
+        width:20rem;
+        height:20rem;
+        transition:all 0.5s ease-out;
+
+        &:hover {
+            transform:rotate(360deg);
+        }
+      }
+
+
+
+      &:hover {
+        cursor:pointer;
+       }
+
+
+
+
+    }
+
+  }
+
+}
