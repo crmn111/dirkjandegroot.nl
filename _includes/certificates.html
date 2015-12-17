@@ -1,0 +1,33 @@
+ <!-- Certificate Section -->
+    <section class="success" id="certificates">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>CERTIFICATES</h2>
+                    <hr class="star-light">
+                </div>
+            </div>
+            <div class="row">
+                <ul class="certificates list-inline list-unstyled">
+                    {% for certificate in site.data.certificates %}
+                    <li>
+
+                        <a href="{{ certificate.url }}" target="_blank">
+
+                                <div class="caption">
+                                    <div class="caption-content">
+                                        <i class="fa fa-search-plus fa-3x"></i>
+                                    </div>
+                                </div>
+                                <img src="/img/{{ certificate.badge }}" />
+
+                        </a>
+
+                    </li>
+                    {% endfor %}
+                </ul>
+
+            </div>
+
+        </div>
+    </section>

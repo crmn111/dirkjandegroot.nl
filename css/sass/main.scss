@@ -52,6 +52,60 @@ ul.codeschool {
   }
 }
 
+
+ul.certificates {
+  margin:auto!important;
+  display: block;
+  width:35rem;
+
+  li {
+    margin:1rem;
+    display: inline-block;
+
+
+    @media (max-width: 768px) {
+      margin:auto;
+      width:100%;
+
+      a {
+        margin:auto;
+        width:100%;
+        text-align: center;
+
+        img {
+          margin:auto;
+        }
+      }
+    }
+
+
+    a {
+      display: inline-block;
+      position: relative;
+
+
+      img {
+        position: relative;
+        z-index: 0!important;
+        width:14rem;
+        height:14rem;
+        transition:all 0.2s ease-out;
+
+        &:hover {
+          transform:scale(1.1);
+        }
+      }
+
+      &:hover {
+        cursor:pointer;
+      }
+    }
+
+  }
+
+}
+
+
 .modal {
   width:90%;
   height:90%;
