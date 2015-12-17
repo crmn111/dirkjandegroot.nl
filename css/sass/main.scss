@@ -4,6 +4,23 @@ ul.codeschool {
     margin:1rem;
     display: inline-block;
 
+
+    @media (max-width: 768px) {
+      margin:auto;
+      width:100%;
+
+      a {
+        margin:auto;
+        width:100%;
+        text-align: center;
+
+        img {
+          margin:auto;
+        }
+      }
+    }
+
+
     a {
       display: inline-block;
       position: relative;
@@ -27,15 +44,87 @@ ul.codeschool {
         }
       }
 
-
-
       &:hover {
         cursor:pointer;
       }
+    }
+
+  }
+}
+
+.modal {
+  width:90%;
+  height:90%;
+  margin:auto;
+}
+
+a.portfolio-link {
+
+  border:10px solid rgba(24, 255, 156, 0.9);
+  border-radius: 5px;
+}
+
+.course-links {
+  margin-top:6rem;
+
+  a {
+    width:18rem;
+  }
+
+  a:first-child {
+    margin-right:3rem;
+  }
 
 
+  @media (max-width: 768px) {
+
+    a:first-child {
+      margin-right:0;
+    }
+  }
 
 
+}
+
+header {
+  overflow:hidden;
+  height: 80rem;
+  position: relative;
+  background-color:rgba(24, 188, 156, 1);
+  video {
+    position: absolute;
+    width:100%;
+    z-index:0;
+    left:0; right:0;
+  }
+  div.overlay {
+    position: absolute;
+    left:0; right:0;
+    top:0; bottom:0;
+    background-color:rgba(24, 188, 156, .8);
+  }
+}
+
+.modal-body {
+
+    @media (max-width: 768px) {
+
+      h2 {
+        font-size:150%!important;
+      }
+    }
+
+}
+
+.row {
+  @media (max-width: 768px) {
+
+    h2 {
+      font-size:180%!important;
+    }
+
+    p {
+      font-size: 120%!important;
     }
 
   }

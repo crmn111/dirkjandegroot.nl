@@ -3,8 +3,8 @@ title: Freelancer
 title2: Mad Skillz
 email: dirkjan@degroot.in
 url: https://dirkjan111.github.io
-baseurl : /dirkjandegroot.nl
-description: "Freelancer with Mgit aad skills: Angular SASS Node MongoDB Marketing Hacking."
+baseurl :
+description: "Freelancer with Mad skillz: Angular SASS Node MongoDB Marketing Hacking."
 skills: "Angular/ MEAN Developer - Frontend - Marketing Hacker"
 meta_author: Dirk-Jan de Groot
 
@@ -51,7 +51,7 @@ address:
   - line: Om en nabij 010
 
 # Credits content
-credits: '<a href="https://jekyllrb.com/">Jekyll</a> Theme: <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: '<a href="https://jekyllrb.com/">Jekyll</a> | <a href="http://startbootstrap.com">Start Bootstrap</a> | <a href="https://github.com/">Github</a>'
 
 # Build settings
 markdown: kramdown

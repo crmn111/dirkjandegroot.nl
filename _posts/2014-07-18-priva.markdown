@@ -1,0 +1,14 @@
+---
+title: Priva
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: priva.jpg
+alt: image-alt
+project-date: 2013
+client: Priva Tamtam
+category: Web Development
+description: Frontend Project voor Tamtam <a href="http://www.priva.nl/nl">Priva</a>. 
+url: http://www.priva.nl
+
+---
