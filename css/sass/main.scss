@@ -114,8 +114,12 @@ ul.certificates {
 
 a.portfolio-link {
 
-  border:10px solid rgba(24, 255, 156, 0.9);
+  border:8px solid rgba(24, 255, 156, 0.9);
   border-radius: 5px;
+}
+
+.portfolio-item img {
+  min-height:15em;
 }
 
 .course-links {
@@ -147,15 +151,29 @@ header {
   background-color:rgba(24, 188, 156, 1);
   video {
     position: absolute;
+    z-index:0;
     width:100%;
     z-index:0;
-    left:0; right:0;
+    left:0;
+
+    @media (max-width: 768px) {
+
+     height:100%;
+      width:auto;
+    }
+
   }
   div.overlay {
     position: absolute;
     left:0; right:0;
     top:0; bottom:0;
     background-color:rgba(24, 188, 156, .8);
+  }
+  div.container {
+    position: relative;
+    margin-top:11rem;
+    padding-top: 8rem;
+    z-index:1;
   }
 }
 
@@ -183,4 +201,8 @@ header {
 
   }
 
+}
+
+p.sub {
+  font-size:1em;
 }

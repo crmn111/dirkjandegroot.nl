@@ -1,16 +1,16 @@
 ---
-title: Antwoord voor bedrijven
+title: Elovog
 layout: default
-modal-id: 6
+modal-id: 7
 date: 2014-07-16
-img: avb.jpg
+img: elovog.jpg
 alt: image-alt
 project-date: 2012
 client: Computer Futures - Cap Gemini
 category: Web Development
 description: Front-end developer
-subdescription: In project team van 25 man gewerkt aan de front-end. CMS op basis van Hippo.
+subdescription: Nieuwe rijks huisstijl toegepast op admin interface
 tech: HTML, CSS, jQuery, WCAG, Webrichtlijnen
-url: http://www.ondernemersplein.nl
+url: https://www.justis.nl/producten/vog/vog-aanvragen/
 
 ---

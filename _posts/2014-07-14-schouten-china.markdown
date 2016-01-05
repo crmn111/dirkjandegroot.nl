@@ -9,6 +9,7 @@ project-date: 2012
 client: Web tool
 category: Web Development
 description: Front-end developer
+tech: HTML, CSS
 url: http://www.schoutenchina.com/
 
 ---

@@ -8,7 +8,8 @@ alt: image-alt
 project-date: 2013
 client: Baltic Apartments
 category: Web Development
-description: Baltic Apartments - Holiday Apartments - Wordpress development + Design + HTML/CSS
+description: <a href="http://www.balticapartments.eu/nl/">Baltic Apartments</a> - Holiday Apartments - Design + Development
+tech: jQuery, HTML, CSS, Wordpress
 url: http://www.balticapartments.eu/nl/
 
 ---
