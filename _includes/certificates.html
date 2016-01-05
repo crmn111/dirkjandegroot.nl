@@ -11,18 +11,11 @@
                 <ul class="certificates list-inline list-unstyled">
                     {% for certificate in site.data.certificates %}
                     <li>
-
                         <a href="{{ certificate.url }}" target="_blank">
 
-                                <div class="caption">
-                                    <div class="caption-content">
-                                        <i class="fa fa-search-plus fa-3x"></i>
-                                    </div>
-                                </div>
+
                                 <img src="{{ site.baseurl }}/img/{{ certificate.badge }}" />
-
                         </a>
-
                     </li>
                     {% endfor %}
                 </ul>
