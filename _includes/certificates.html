@@ -8,18 +8,15 @@
                 </div>
             </div>
             <div class="row">
-                <ul class="certificates list-inline list-unstyled">
+
+                <div class="certificates">
+
                     {% for certificate in site.data.certificates %}
-                    <li>
-                        <a href="{{ certificate.url }}" target="_blank">
-
-
+                        <a href="{{ certificate.url }}" target="_blank" class="certificate col-md-3">
                                 <img src="{{ site.baseurl }}/img/{{ certificate.badge }}" />
                         </a>
-                    </li>
                     {% endfor %}
-                </ul>
-
+                </div>
             </div>
 
         </div>

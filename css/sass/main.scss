@@ -53,42 +53,26 @@ ul.codeschool {
 }
 
 
-ul.certificates {
+div.certificates {
   margin:auto!important;
   display: block;
-  width:75rem;
+  width:70%;
+  margin:auto;
 
-  li {
-    margin:1rem;
-    display: inline-block;
-
-
-    @media (max-width: 768px) {
-      margin:auto;
-      width:100%;
-
-      a {
-        margin:auto;
-        width:100%;
-        text-align: center;
-
-        img {
-          margin:auto;
-        }
-      }
-    }
 
 
     a {
       display: inline-block;
       position: relative;
-
+      clear: none;
 
       img {
+        margin:1rem;
+
         position: relative;
         z-index: 0!important;
-        width:14rem;
-        height:14rem;
+        width:15rem;
+        height:15rem;
         transition:all 0.2s ease-out;
 
         &:hover {
@@ -101,9 +85,25 @@ ul.certificates {
       }
     }
 
-  }
 
-}
+
+
+    @media (max-width: 768px) {
+      width:100%;
+
+      a {
+        margin:auto;
+        width:100%;
+        text-align: center;
+
+        img {
+
+        }
+      }
+    }
+
+
+  }
 
 
 .modal {
