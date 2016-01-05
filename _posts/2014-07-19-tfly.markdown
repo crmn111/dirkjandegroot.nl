@@ -11,7 +11,7 @@ category: Web Development
 description: Javascript Application Development. 
 subdescription: Grote javascript desktop-like applicatie die het mogelijk maakt patenten die opgeslagen zitten in de (vele miljoenen patenten bevattende) databases van de epo, on-the-fly the ocr'en via een ABBY Java API en dan gelijk te vertalen via een andere API. 
 tech: HTML, CSS, Vanilla Javascript, JQuery, Module Pattern, Promises
-url: http://www.epo.org
+myurl: http://www.epo.org
 
 
 ---

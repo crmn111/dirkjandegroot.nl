@@ -11,7 +11,7 @@ category: Web Development
 description: Frontend Project voor Tamtam - <a href="http://www.priva.nl/nl" target="_blank">Priva</a>. 
 subdescription: Creeren van rond de 40 templates t.b.v. de corporate website voor Priva.
 tech: HTML, CSS, JQUERY
-url: http://www.priva.nl
+myurl: http://www.priva.nl
 
 
 ---

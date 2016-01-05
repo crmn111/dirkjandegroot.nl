@@ -11,6 +11,6 @@ category: Web Development
 description: Front-end developer
 subdescription: Nieuwe rijks huisstijl toegepast op admin interface
 tech: HTML, CSS, jQuery, WCAG, Webrichtlijnen
-url: https://www.justis.nl/producten/vog/vog-aanvragen/
+myurl: https://www.justis.nl/producten/vog/vog-aanvragen/
 
 ---

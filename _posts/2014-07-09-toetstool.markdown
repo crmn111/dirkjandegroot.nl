@@ -10,6 +10,6 @@ client: Web tool
 category: Web Development
 description: Platform voor accessibility toetsingen - niet meer online
 tech: jQuery, HTML, CSS, WCAG, Webrichtlijnen
-url: http://www.dirkjandegroot.nl
+myurl: https://twitter.com/toetstool
 
 ---

@@ -11,6 +11,6 @@ category: Web Development
 description: Front-end developer
 subdescription: Begeleiden implementatie webrichtlijnen, front-end development, kennisoverdracht.
 tech: HTML, CSS, jQuery, WCAG, Webrichtlijnen
-url: https://www.tenderned.nl
+myurl: https://www.tenderned.nl
 
 ---

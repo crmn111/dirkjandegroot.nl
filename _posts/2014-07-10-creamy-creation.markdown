@@ -11,6 +11,6 @@ category: Web Development
 description: Front-end developer
 subdescription: Implementatie design in html/ css
 tech: HTML, CSS
-url: http://www.creamy-creation.com/en
+myurl: http://www.creamy-creation.com/en
 
 ---

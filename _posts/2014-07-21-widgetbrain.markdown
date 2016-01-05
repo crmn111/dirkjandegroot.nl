@@ -11,7 +11,7 @@ category: Web Development
 description: Angular development front-end
 subdescription: Middelgrote applicatie voor de medische CT &amp; MRI sector in de USA, m.b.v. angular &amp; Google Maps 
 tech: Angular, Angular Google Maps, UI-Grid, HTML5, CSS3
-url: http://www.widgetbrain.com
+myurl: http://www.widgetbrain.com
 
 
 ---

@@ -11,6 +11,6 @@ category: Web Development
 description: Front-end developer
 subdescription: In project team van 25 man gewerkt aan de front-end. CMS op basis van Hippo.
 tech: HTML, CSS, jQuery, WCAG, Webrichtlijnen
-url: http://www.ondernemersplein.nl
+myurl: http://www.ondernemersplein.nl
 
 ---

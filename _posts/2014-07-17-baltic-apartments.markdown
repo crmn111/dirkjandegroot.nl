@@ -10,6 +10,6 @@ client: Baltic Apartments
 category: Web Development
 description: <a href="http://www.balticapartments.eu/nl/">Baltic Apartments</a> - Holiday Apartments - Design + Development
 tech: jQuery, HTML, CSS, Wordpress
-url: http://www.balticapartments.eu/nl/
+myurl: http://www.balticapartments.eu/nl/
 
 ---

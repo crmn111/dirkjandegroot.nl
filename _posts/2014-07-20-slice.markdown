@@ -11,7 +11,7 @@ category: Web Development
 description: Javascript Application Development. 
 subdescription: Grote javascript desktop-like applicatie die het mogelijk maakt (versies van) patenten op biochemische sequences met elkaar te vergelijken (diff tool) en comments te plaatsen. Het is eigenlijk een workflow tool voor examiners in lifescience die daardoor veel tijd besparen. 
 tech: HTML, CSS, Vanilla Javascript, JQuery, Module Pattern, Promises
-url: http://www.epo.org
+myurl: http://www.epo.org
 
 
 ---

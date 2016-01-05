@@ -11,6 +11,6 @@ category: Web Development
 description: Front-end developer
 subdescription: In java team verantwoordelijk voor de front-end. Backend op basis van Wicket.
 tech: HTML, CSS, jQuery, WCAG, Webrichtlijnen
-url: https://digid.nl/inloggen
+myurl: https://digid.nl/inloggen
 
 ---

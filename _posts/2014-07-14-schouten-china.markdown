@@ -10,6 +10,6 @@ client: Web tool
 category: Web Development
 description: Front-end developer
 tech: HTML, CSS
-url: http://www.schoutenchina.com/
+myurl: http://www.schoutenchina.com/
 
 ---
